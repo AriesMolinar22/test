@@ -1,0 +1,39 @@
+*{
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+}
+
+.container{
+    background-color: orange;
+    height: 500px;
+    width: 100%;
+    color: white;
+}
+.left-link a{
+    display: block;
+    color: white;
+    text-align: left;
+    padding: 10px;
+    text-decoration: none;
+    float: left;
+}
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    margin-left: 50px;
+    margin-right: 50px;
+   
+  }
+  .right-link a{
+    display: block;
+    color: white;
+    text-align: right;
+    padding: 10px;
+    text-decoration: none;
+    float: right;
+
+}
+  
